@@ -3,8 +3,27 @@ Projeto do evento Next Level Week#2 ministrado pela Rocketseat
 
 #Tecnologias utilizadas durante o projeto
  
-<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5" p = "HTML5" />
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<style>
+        #Html5 {
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            align-items: center;
+        }
+
+
+        #Html5 p {
+            font-size: 20px;
+            font-weight: bold;
+            color: rgb(141, 138, 138);
+        }
+   </style>
+   
+   <div id="All">
+        <div id="Html5">
+            <img src="https://img.icons8.com/color/48/000000/html-5.png" />
+            <p>Html5</p>
+     </div>
+   
+   
 
 
